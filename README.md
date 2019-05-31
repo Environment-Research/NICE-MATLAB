@@ -4,9 +4,9 @@ This repository contains source code for the NICE model presented in *Inequality
 
 # Running NICE
 
-Running the model requires MATLAB. Within that software, ensure that all of the files contained in this repository are included in the *path*. Executing either of the interface files:
-NICE_interface_global_carbon_price.m
-NICE_interface_regional_carbon_prices.m
+Running the model requires MATLAB. Within that software, ensure that all of the files contained in this repository are included in the *path*. Executing either of the interface files:  
+NICE_interface_global_carbon_price.m  
+NICE_interface_regional_carbon_prices.m  
 
 will result in the model being executed and the results saved to a variable called "results". 
 
